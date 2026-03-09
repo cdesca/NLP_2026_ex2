@@ -16,4 +16,6 @@ The code requires the following Python libraries:
 ### Additional Required Resources
 
 1. **Names files**
-The dataset of Catalan names (1950s and 2010s) from Idescat. Institut d'Estadística de Catalunya is included in the data/ folder.
+The datasets of Catalan names (1950s and 2010s) from Idescat. Institut d'Estadística de Catalunya:
+https://raw.githubusercontent.com/bethancunningham/nlp_2026/main/noms_50s.csv
+https://raw.githubusercontent.com/bethancunningham/nlp_2026/main/noms_10s.csv
